@@ -1,0 +1,4 @@
+interface:
+  display_name: "WireScript Wireframer"
+  short_description: "Generate and render WireScript wireframes"
+  default_prompt: "Describe the product or page you want to wireframe and I will generate and render it with WireScript."
